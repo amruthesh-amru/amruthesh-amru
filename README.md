@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is AMRUTHESH,<br> A passionate frontend developer from India.</h2>
+<h2 align="left">Hi 👋! My name is AMRUTHESH,<br> A passionate Full-Stack Developer from India.</h2>
 
 ###
 
